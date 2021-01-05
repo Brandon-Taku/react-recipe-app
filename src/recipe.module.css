@@ -1,0 +1,17 @@
+.recipe {
+    border-radius: 10px;
+    box-shadow: 0px 5px ;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-image: linear-gradient(to top, #4fb576 0%, #44c489 30%, #28a9ae 46%, #28a2b7 59%, #4c7788 71%, #6c4f63 86%, #432c39 100%);
+    align-items: center;
+    min-width: 40%;
+}
+
+.image {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
